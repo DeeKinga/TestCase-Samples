@@ -5,10 +5,10 @@ Below are some Test Cases Samples that I wrote for my previous projects.
 **Project 1-> https://demo.guru99.com/payment-gateway/purchasetoy.php**
 
 _Title:_ Generate Card Number <br/>
-_Test CaseID:_TCG1 
-_Pre-condintions:_Chrome, Firefox, Edge available
-_Post_conditions:_-
-_Test Priority:_1
+_Test CaseID:_ TCG1 <br/>
+_Pre-condintions:_ Chrome, Firefox, Edge available <br/>
+_Post_conditions:_ - <br/>
+_Test Priority:_ 1 <br/>
 _Description/Summary:_We want to generate a valid card number
 _Test Steps:_
 1. Open https://demo.guru99.com/payment-gateway/purchasetoy.php
