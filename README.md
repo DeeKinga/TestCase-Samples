@@ -25,18 +25,20 @@ ___
 _Title:_ We can make an order with the valid card number <br/>
 _Test CaseID:_ TC1 <br/>
 _Pre-condintions:_ <br/>
-1. Chrome, Firefox, Edge available <br/>
-2. We get a valid Card number from the first test case <br/>
+1. Chrome, Firefox, Edge available 
+2. We get a valid Card number from the first test case
+   
 
 _Post_conditions:_ - <br/>
 _Test Priority:_ 1 <br/>
 _Description/Summary:_ we should be able to complete an order <br/>
 _Test Steps:_ <br/>
-1. Open https://demo.guru99.com/payment-gateway/purchasetoy.php <br/>
-2. Choose: Quantity 1 <br/>
-3. Press Buy <br/>
-4. Fill in all information for the card <br/>
-5. Press Buy <br/>
+1. Open https://demo.guru99.com/payment-gateway/purchasetoy.php 
+2. Choose: Quantity 1 
+3. Press Buy 
+4. Fill in all information for the card 
+5. Press Buy
+
 
 _Test Data:_ Valid card number:  4683284279919555 ,CVV: 456 & Exp: 07/2025 <br/>
 _Expected Result:_ We should receive Payment successfully and an Order ID <br/>
@@ -52,11 +54,11 @@ _Post_conditions:_ - <br/>
 _Test Priority:_ 1 <br/>
 _Description/Summary:_ We should not be able to complete an order <br/>
 _Test Steps:_ <br/>
-1. Open https://demo.guru99.com/payment-gateway/purchasetoy.php <br/>
-2. Choose: Quantity 1 <br/>
-3. Press Buy <br/>
-4. Fill all information for card (invalid card) <br/>
-5. Press Buy <br/>
+1. Open https://demo.guru99.com/payment-gateway/purchasetoy.php 
+2. Choose: Quantity 1 
+3. Press Buy 
+4. Fill all information for card (invalid card) 
+5. Press Buy
 
 _Test Data:_ Invalid card: 1234567891234567,CVV: 456 & Exp: 07/2025 <br/>
 _Expected Result:_ We should receive an error message <br/>
