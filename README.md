@@ -11,8 +11,9 @@ _Post_conditions:_ - <br/>
 _Test Priority:_ 1 <br/>
 _Description/Summary:_ We want to generate a valid card number <br/>
 _Test Steps:_ <br/> 
-1. Open https://demo.guru99.com/payment-gateway/purchasetoy.php <br/>
-2. Go to Generate Card Number <br/>
+1. Open https://demo.guru99.com/payment-gateway/purchasetoy.php 
+2. Go to Generate Card Number 
+
 
 _Test Data:_ - <br/>
 _Expected Result:_ We should get a valid card Number with CVV, expiration date, Credit Limit <br/>
